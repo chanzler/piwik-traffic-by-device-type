@@ -1,11 +1,11 @@
 {
     "TrafficByDeviceType": {
-        "SettingsIntroduction": "Hier k&ouml;nnen Sie das Verhalten des Plugins konfigurieren.",
+        "SettingsIntroduction": "Hier können Sie das Verhalten des Plugins konfigurieren.",
         "SettingsRefreshInterval": "Aktualisierungsintervall",
         "SettingsRefreshIntervalDescription": "Legt fest, in welchem Zeitabstand in Minuten das Widget aktualisiert wird.",
         "SettingsRefreshIntervalHelp": "Geben Sie eine Zahl >= 1 an",
-        "Description": "Zeigt eine &Uuml;bersicht der aktuellen Ger&auml;teklassen",
-        "WidgetName": "Ger&auml;tetypen",
-        "NoDevicesFound": "Keine Ger&auml;te erkannt"
+        "Description": "Zeigt eine Übersicht der aktuellen Geräteklassen",
+        "WidgetName": "Gerätetypen",
+        "NoDevicesFound": "Keine Geräte erkannt"
     }
 }

@@ -1,0 +1,22 @@
+{
+    "name": "TrafficByDeviceType",
+    "version": "0.1.0",
+    "description": "Live widget that displays visits sorted by device type.",
+    "theme": false,
+    "keywords": ["visits", "device", "widget", "live"],
+    "homepage": "http://github.com/chanzler/piwik-traffic-by-device-type",
+    "license": "GPL-3.0+",
+	"donate": {
+        "paypal": "paypal@familiekanzler.de"
+	},
+    "authors": [
+        {
+            "name": "Frank Kanzler",
+            "email": "frank@intersolve.de",
+            "homepage": "http:\/\/www.intersolve.de"
+        }
+    ],
+    "require": {
+        "piwik": ">=2.0.0"
+    }
+}

@@ -49,6 +49,9 @@ $(function() {
 				$("#TrafficByDeviceTypeChart").find("div[index="+index+"]").stop().delay(1 * index).animate({ top: vertical_offset}, 1000, 'swing').appendTo("#TrafficByDeviceTypeChart");
 				vertical_offset += settings['rowHeight'];
 			}
+			for ( index = data.length; index <= 20; index++) {
+				$("#TrafficByDeviceTypeChart").find("div[index="+index+"]").hide();
+			}
             // schedule another request
             setTimeout(function () { refreshTrafficByDeviceTypeWidget(element, refreshAfterXSecs); }, refreshAfterXSecs * 1000);
         });

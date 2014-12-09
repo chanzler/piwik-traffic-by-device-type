@@ -4,7 +4,7 @@
         "SettingsRefreshInterval": "Aktualisierungsintervall",
         "SettingsRefreshIntervalDescription": "Legt fest, in welchem Zeitabstand in Minuten das Widget aktualisiert wird.",
         "SettingsRefreshIntervalHelp": "Geben Sie eine Zahl >= 1 an",
-        "Description": "Zeigt eine Übersicht der aktuellen Ger�teklassen",
+        "Description": "Zeigt eine Übersicht der aktuellen Geräteklassen",
         "WidgetName": "Gerätetypen",
         "NoDevicesFound": "Keine Geräte erkannt"
     }
